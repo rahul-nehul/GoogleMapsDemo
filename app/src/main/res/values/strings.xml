@@ -1,5 +1,9 @@
 <resources>
     <string name="app_name">GoogleMapsDemo</string>
     <string name="google_maps_API_key">AIzaSyAtfUkUHk2egtoXiGPDatSIo8iFdP7h2bY</string>
+    <string name="gps_network_not_enabled">Location not enabled</string>
+    <string name="open_location_settings">Click here to enable location settings</string>
+    <string name="Cancel">Cancel</string>
+    Cancel
 
 </resources>
